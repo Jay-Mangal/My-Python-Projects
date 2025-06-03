@@ -1,2 +1,2 @@
 # My-Python-Projects
-For simple projects and program 
+Simple projects and program  
